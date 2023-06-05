@@ -15,3 +15,12 @@ The blog page provides a user registration feature, allowing new users to sign u
 2. Fill out the registration form, providing a unique username, email address, and password.
 3. Click the "Register" button to create your account.
 4. Upon successful registration, you will be redirected to the login page.
+
+
+## User Login
+Existing users can log in to their accounts using the following steps:
+
+Access the login page by clicking on the "Login" link.
+Enter your username and password in the respective fields.
+Click the "Login" button to authenticate your credentials.
+If the provided information is correct, you will be redirected to the main page.
