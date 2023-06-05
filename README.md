@@ -52,7 +52,7 @@ Users can delete their own blog posts. To delete a post, follow these steps:
 ## Post Editing
 Users can edit their own blog posts. To edit a post, follow these steps:
 
-Find the post you want to edit on the main page or your user profile.
-Click on the edit icon or link associated with the post.
-Make the desired changes to the post title, content, or other fields.
-Save the changes
+1. Find the post you want to edit on the main page or your user profile.
+2. Click on the edit icon or link associated with the post.
+3. Make the desired changes to the post title, content, or other fields.
+4. Save the changes
