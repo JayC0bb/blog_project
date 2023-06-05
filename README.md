@@ -11,7 +11,7 @@
 ## User Registration
 The blog page provides a user registration feature, allowing new users to sign up for an account. To register, follow these steps:
 
-Navigate to the registration page by clicking on the "Register" link.
-Fill out the registration form, providing a unique username, email address, and password.
-Click the "Register" button to create your account.
-Upon successful registration, you will be redirected to the login page.
+1. Navigate to the registration page by clicking on the "Register" link.
+2. Fill out the registration form, providing a unique username, email address, and password.
+3. Click the "Register" button to create your account.
+4. Upon successful registration, you will be redirected to the login page.
