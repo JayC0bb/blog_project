@@ -24,3 +24,6 @@ Access the login page by clicking on the "Login" link.
 Enter your username and password in the respective fields.
 Click the "Login" button to authenticate your credentials.
 If the provided information is correct, you will be redirected to the main page.
+
+## Database Management
+The blog page utilizes an SQLite database to store user information and blog posts. The necessary database tables and fields are automatically created during the migration process described in the "Getting Started" section.
