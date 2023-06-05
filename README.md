@@ -27,3 +27,20 @@ If the provided information is correct, you will be redirected to the main page.
 
 ## Database Management
 The blog page utilizes an SQLite database to store user information and blog posts. The necessary database tables and fields are automatically created during the migration process described in the "Getting Started" section.
+
+## Post Creation
+Logged-in users have the ability to create new blog posts. To create a post, follow these steps:
+
+1. After logging in, navigate to the blog creation page.
+2. Fill out the required fields, such as title and content, in the blog post form.
+3. Optionally, add any relevant tags or categories.
+4. Click the "Create" button to publish your blog post.
+5. Upon successful creation, you will be redirected to the main page, where your new post will be displayed.
+
+## Post Deletion
+Users can delete their own blog posts. To delete a post, follow these steps:
+
+1. Locate the post you wish to delete on the main page or your user profile.
+2. Click on the delete icon or link associated with the post.
+3. Confirm the deletion when prompted.
+4. The post will be permanently removed from the database.
